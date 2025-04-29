@@ -4,8 +4,11 @@ This is a font renderer that can render both dos ascii font and combinational ha
 It uses Dokebi 844 combination format for hangul font.
 
 may be sluggish and buggy, please keep that in mind.
-# How to use
+## How to use
 Please check Wiki tab of the repository.
+
+## Tested devices
+ESP32-8048S070 (bought from [here](https://ko.aliexpress.com/item/1005008500705188.html))
 
 yep that's it
 ## Korean
@@ -16,5 +19,7 @@ yep that's it
 다소 불안정하거나 오류가 있을 수 있으니 그 점 양해바랍니다.
 ## 사용법
 리포지토리의 위키 탭을 확인해주세요.
+## 테스트된 기기
+ESP32-8048S070 ([구매한 링크](https://ko.aliexpress.com/item/1005008500705188.html))
 
 ㅖ 이게 다예요
