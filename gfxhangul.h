@@ -18,5 +18,5 @@ class hangul {
   
   public:
     uint16_t* convert_utf(char* byte);
-    uint8_t print_unicode(char* byte, uint16_t x, uint16_t y, uint16_t pixel);
+    uint8_t print(char* byte, uint16_t x, uint16_t y, uint16_t pixel);
 }
