@@ -1,8 +1,8 @@
 #ifndef GFX_HANGUL
 #define GFX_HANGUL
 
-#include "./font/font_ascii.h"
-#include "./font/font_hangul.h"
+#include "fonts/font_ascii.h"
+#include "fonts/font_hangul.h"
 
 class hangul {
   private:
