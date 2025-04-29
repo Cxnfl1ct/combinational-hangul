@@ -1,5 +1,6 @@
 #ifndef GFX_HANGUL
 #define GFX_HANGUL
+#endif
 
 #include "fonts/font_ascii.h"
 #include "fonts/font_hangul.h"
