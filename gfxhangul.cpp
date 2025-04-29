@@ -127,7 +127,7 @@ class hangul {
         off2 = i/16 * 8; // I can't believe this single error made me struggle for weeks and months... (actually more like bcs of me abandoning it lol)
 
         drawByte(font_han1[1024*line + col*2 + off1 + i/16], x+off2, y+i%16, pixel);
-        /* Explanation
+        /* Explanation (outdated)
         
           Selection offsets:
           512 (width of font image) * 16 = 8192, 8192 / 8 (1byte) = 1024 
